@@ -1,0 +1,4 @@
+2023-11-19 21:07:46,092 - thread:LR__0, type:LogJ, fileNo: 0 to 0 , cost time: 7.442721128463745
+2023-11-19 21:07:46,093 - ./out/ finished, total time cost: 7.453240871429443 , thread accum time: 7.442721128463745
+2023-11-19 21:07:46,094 - Type:./logs/LogJ.log, In_OutSize: 3601.862 _ 1033.944 Kb, Rate: 3.484 , InFilePath:./logs/LogJ_Segment/, OutFilePath:./out/
+2023-11-19 21:07:46,095 - ./out/ Main finished, total time cost: 7.509778261184692 , error num: 0

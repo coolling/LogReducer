@@ -1,0 +1,4 @@
+2023-11-13 16:52:12,102 - thread:LR__0, type:LogA, fileNo: 0 to 0 , cost time: 2.617918014526367
+2023-11-13 16:52:12,177 - ./ finished, total time cost: 4.0531158447265625e-06 , thread accum time: 2.617918014526367
+2023-11-13 16:52:12,180 - Type:./out/, In_OutSize: 4066.004 _ 77095.885 Kb, Rate: 0.053 , InFilePath:./out/, OutFilePath:./
+2023-11-13 16:52:12,180 - ./LogA.log Main finished, total time cost: 2.6975889205932617 , error num: 0

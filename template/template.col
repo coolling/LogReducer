@@ -1,0 +1,23 @@
+[0]
+<*>	Enter:OnChunkDeleted	ChunkId:<*>	ErrorCode:<*>	CacheDirId:DiskId=<*>	StoreDirId:DiskId=<*>
+[1]
+<*>	DeleteReplicationTask:can't	find the replication task. ChunkID:<*>
+[2]
+<*>	Method:GetAllCacheIOWorkerSize	Cause:Disk	<*> doesn't exist
+[3]
+<*> <*> <*>
+[4]
+<*> <*> <*> <*>
+[5]
+<*>	loadChunkInfo:-1001	ChunkId:<*>
+[6]
+<*>	log:idle,	close connection <*>:<*>
+[7]
+<*>	addDeleteChunk:The	delete has been push to queue ChunkId:<*>	ChunkVersion:<*>	Pending:false
+[8]
+1600.00 90%:	<*> 99%:	<*> 99.9%:	<*> 99.99%:	<*>
+[10]
+----------------------------------------------------------------------
+[11]
+<*>	PANGU_CHUNKSERVER:PanguChunkserverTotalMachineMemory:<*>
+[12]
